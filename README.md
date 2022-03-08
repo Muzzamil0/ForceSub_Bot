@@ -20,7 +20,7 @@
 ### Deploy in vps
 - Clone this repo
 ```
-git clone https://github.com/Jigarvarma2005/ForceSub_Bot
+git clone https://github.com/Jigarvarma2005/Muzzamil0
 ```
 - Change directory
 ```
